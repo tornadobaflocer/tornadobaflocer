@@ -1,19 +1,16 @@
-![knowledge-sharing development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbTVpaGV4eGpzOWt3dDZweHg2NncwM21hNGgxcDN1dDVocDB0NXE0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Ex7hYXJ7aZPFIgE/giphy.gif)
-
 # Introducción
-Hola, soy tornadobaflocer, un desarrollador con experiencia en diversas tecnologías. Me encanta resolver problemas y crear soluciones eficientes.
+¡Hola! Soy **tornadobaflocer**, un entusiasta de la programación y la tecnología. Me encanta aprender y compartir mis conocimientos.
 
 # Habilidades
-- Desarrollo web: HTML, CSS, JavaScript
-- Backend: Node.js, Python
-- Bases de datos: MySQL, MongoDB
-- Control de versiones: Git
+- **Lenguajes:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Django
+- **Herramientas:** Git, Docker, AWS
 
 # Proyectos
-- [Proyecto1](https://github.com/tornadobaflocer/proyecto1): Una aplicación web para gestionar tareas.
-- [Proyecto2](https://github.com/tornadobaflocer/proyecto2): Una API REST para un sistema de reservas.
+- [Proyecto 1](https://github.com/tornadobaflocer/proyecto1): Una aplicación web para gestionar tareas.
+- [Proyecto 2](https://github.com/tornadobaflocer/proyecto2): Un API RESTful para una plataforma de e-commerce.
 
 # Contactos
 Puedes encontrarme en:
-- [LinkedIn](https://www.linkedin.com/in/tornadobaflocer)
 - [Twitter](https://twitter.com/tornadobaflocer)
+- [LinkedIn](https://linkedin.com/in/tornadobaflocer)
