@@ -1,16 +1,19 @@
-## Hi there 👋
+![knowledge-sharing development](https://media4.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbTVpaGV4eGpzOWt3dDZweHg2NncwM21hNGgxcDN1dDVocDB0NXE0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Ex7hYXJ7aZPFIgE/giphy.gif)
 
-<!--
-**tornadobaflocer/tornadobaflocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introducción
+Hola, soy tornadobaflocer, un desarrollador con experiencia en diversas tecnologías. Me encanta resolver problemas y crear soluciones eficientes.
 
-Here are some ideas to get you started:
+# Habilidades
+- Desarrollo web: HTML, CSS, JavaScript
+- Backend: Node.js, Python
+- Bases de datos: MySQL, MongoDB
+- Control de versiones: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos
+- [Proyecto1](https://github.com/tornadobaflocer/proyecto1): Una aplicación web para gestionar tareas.
+- [Proyecto2](https://github.com/tornadobaflocer/proyecto2): Una API REST para un sistema de reservas.
+
+# Contactos
+Puedes encontrarme en:
+- [LinkedIn](https://www.linkedin.com/in/tornadobaflocer)
+- [Twitter](https://twitter.com/tornadobaflocer)
